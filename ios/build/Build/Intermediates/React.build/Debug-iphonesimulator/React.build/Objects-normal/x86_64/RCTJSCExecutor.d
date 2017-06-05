@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/React/Modules/RCTDevMenu.h

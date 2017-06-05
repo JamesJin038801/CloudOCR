@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.m \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/hamid/Desktop/CloudOCR/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/hamid/Desktop/CloudOCR/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h

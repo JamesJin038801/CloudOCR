@@ -1,0 +1,3 @@
+rootProject.name = 'CloudOCR'
+
+include ':app'
